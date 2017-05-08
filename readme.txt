@@ -22,11 +22,3 @@ var response =
 
 This response is in JSON format. Canvas drawing is already done. This response is hard coded in client side. 
 
-Your Task in Milestone -I:
-
-You need to generate a similar response format from server side and client side should parse the JSON and draw a canvas based on the coordinates from server.
-
-For this milestone, you need not to worry about the keystroke handling and the game logic. 
-
-We will have a project review session for this first milestone on 04.04.2017 at 1.00 PM.
-
